@@ -39,5 +39,5 @@ conda create -n iat460lab3 python=3.12
 
 The provided notebook is accessible in Google Colab and requires no setup:
 - [grammars](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-3/blob/main/generative_grammars.ipynb)
-- [l-systems](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-2/blob/main/l-systems.ipynb)
-- [l-systems](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-2/blob/main/markov_models.ipynb)
+- [l-systems](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-3/blob/main/l-systems.ipynb)
+- [markov models](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-3/blob/main/markov_models.ipynb)

@@ -24,7 +24,7 @@ If you are familiar with github, you can clone this repo and run the notebook in
 
 ```bash
 git clone https://github.com/IAT-ComputationalCreativity-Spring2026/Lab-3.git
-cd Lab-2
+cd Lab-3
 ```
 
 Create a python virtual environmment (Python 3.12 recommended).
